@@ -10,3 +10,5 @@ When the user clicks the button to generate a password. They are presented with 
 
 When all prompts are answered, a password is generated that matches the selected criteria. The password is diplayed on the page.
 
+![this is an image] (code/password-generator.png)
+
